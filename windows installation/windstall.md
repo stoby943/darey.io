@@ -154,6 +154,12 @@ After creating an account,  create a repository on git hub follow the image exam
 
  ![commit 1](./images/commit%201.PNG)
 
+
+
  ![commit 2](./images/commit%202.PNG)
 
- ## after that refresh your github page on the webbrowser 
+ ## after that refresh your github page on the web browser to see if your documents were uploaded 
+
+ ![git final](./images/git%20final.PNG)
+
+ 
