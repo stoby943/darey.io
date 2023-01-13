@@ -230,4 +230,11 @@ With the default DirectoryIndex settings on Apache, a file named **index.html** 
 
 
 
->
+>## I RELOADED MY PAGE BY ADDING INDEX.PHP TO MY IP ADDRESS
+
+![index.php.php](./images/index.php.php)
+
+## i romoved my index.php file  with the code below when im done with my LEMP installion
+
+
+`sudo rm /var/www/projectlamp/index.php`
