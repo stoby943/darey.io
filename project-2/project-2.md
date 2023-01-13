@@ -99,6 +99,28 @@ When you’re finished, test if you’re able to log in to the MySQL console by 
 
 ## NEXT IS CONFIGURING NGINX TO USE PHP PROCESSOR
 
+![php config nginx](./images/php%20config%20nginx.PNG)
+
+![result 1](./images/result%201.png)
+![result 2](./images/result%202.PNG)
+![echo](./images/echo.PNG)
+
+## I RELOADED MY PAGE ON THE WEB BROWSER 
+
+![result](./images/result.png)
+
+## TESTING PHP WITH NGINX
+
+![testin](./images/testin.PNG)
+
+![info.php file](./images/info.php%20file.PNG)
+
+## TEST MY PAGE BY ADD /INFO.PHP AT THE END OF MY IP ADDRESS AND I GOT THE PHP INFO PAGE
+
+![php page](./images/php%20page.PNG)
+
+## i romoved my info.php file  with the code below when im done with my LEMP installion
 
 
-^
+`sudo rm /var/www/your_domain/info.php`
+
