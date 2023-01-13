@@ -151,4 +151,9 @@ After creating an account,  create a repository on git hub follow the image exam
 ![sc](./images/sc.PNG)
  
  ## add a commit message and click commit
- 
+
+ ![commit 1](./images/commit%201.PNG)
+
+ ![commit 2](./images/commit%202.PNG)
+
+ ## after that refresh your github page on the webbrowser 
